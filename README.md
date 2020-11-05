@@ -1,4 +1,4 @@
-# Azure AD + Go Web App Sample
+# Azure AD + Golang Web App Sample
 
 This sample shows how to use a Go web app to sign into using AAD.
 
